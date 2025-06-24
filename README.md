@@ -17,7 +17,6 @@ Aquí puedes ver la demo de la WebApp: [IR](https://luisolascoagadiaz.github.io/
 ![NODE](/public/img/node64x64.png)
 
 ## Características
-* Inicio de Sesión.
 * Menú de Módulos.
   - Menu.
   - Info.
