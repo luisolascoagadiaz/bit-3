@@ -1,59 +1,31 @@
-# Miwebapp
+# MiWebApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
+Hola, esta es mi aplicación web donde podrás evidenciar todos los avances y conocimientos adquiridos en el BOOTCAMP(Desarrollo Web Full Stack).
 
-## Development server
+## 🚀 Demo
+Aquí puedes ver la demo de la WebApp: [IR](https://luisolascoagadiaz.github.io/bit-1)
 
-To start a local development server, run:
+## Capturas de Pantalla
+![Wireframe](/img/wireframe.png)
 
-```bash
-ng serve
-```
+## Tecnologías usadas
+![HTML5](/img/html64x64.png)
+![CSS 3](/img/css64x64.png)
+![JavaScript](/img/js64X64.png)
+![BOOTSTRAP 5](/img/bootstrap64x64.png)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Características
+* Inicio de Sesión.
+* Menú de Módulos.
+  - Tareas.
+  - Acerca de.
+  - Contacto.
 
-## Code scaffolding
+## Autor:
+LUIS OLASCOAGA DIAZ
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+> [!TIP]
+> Sigue mi progreso en :octocat: [@luisolascoagadiaz](https://www.github.com/luisolascoagadiaz).
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Date: 12/05/2025 06:00 p.m  
+Madrid, Cundinamarca, Colombia.
