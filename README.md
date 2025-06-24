@@ -9,10 +9,12 @@ Aquí puedes ver la demo de la WebApp: [IR](https://luisolascoagadiaz.github.io/
 ![Wireframe](/img/wireframe.png)
 
 ## Tecnologías usadas
-![HTML5](/img/html64x64.png)
-![CSS 3](/img/css64x64.png)
-![JavaScript](/img/js64X64.png)
-![BOOTSTRAP 5](/img/bootstrap64x64.png)
+![HTML5](/public/img/html64x64.png)
+![CSS 3](/public/img/css64x64.png)
+![JavaScript](/public/img/js64X64.png)
+![BOOTSTRAP 5](/public/img/bootstrap64x64.png)
+![ANGULAR](/public/img/angular64x64.png)
+![NODE](/public/img/node64x64.png)
 
 ## Características
 * Inicio de Sesión.
