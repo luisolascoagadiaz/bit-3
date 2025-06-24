@@ -6,7 +6,7 @@ Hola, esta es mi aplicación web donde podrás evidenciar todos los avances y co
 Aquí puedes ver la demo de la WebApp: [IR](https://luisolascoagadiaz.github.io/bit-1)
 
 ## Capturas de Pantalla
-![Wireframe](/img/wireframe.png)
+![Wireframe](/public/img/wireframe.png)
 
 ## Tecnologías usadas
 ![HTML5](/public/img/html64x64.png)
@@ -19,9 +19,9 @@ Aquí puedes ver la demo de la WebApp: [IR](https://luisolascoagadiaz.github.io/
 ## Características
 * Inicio de Sesión.
 * Menú de Módulos.
-  - Tareas.
-  - Acerca de.
-  - Contacto.
+  - Menu.
+  - Info.
+  - Salir.
 
 ## Autor:
 LUIS OLASCOAGA DIAZ
