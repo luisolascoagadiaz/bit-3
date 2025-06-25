@@ -15,7 +15,12 @@ export class Menu implements OnInit {
   ngOnInit(): void {
       this.api.getApiList().subscribe((res:any)=>{
         this.frases = res.value;
-        console.log(this.frases)
       })
   }
+
+    myClickHandler() {
+        this.api.getApiList().subscribe((res:any)=>{
+        this.frases = res.value;
+      })
+      }
 }
